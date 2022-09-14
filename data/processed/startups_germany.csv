@@ -1,0 +1,301 @@
+,Company,City,Started_in,Founders,Industries,Number_of_employees,Funding_amount,Number_of_funding_rounds,Number_of_investors
+0,Celonis, Munich, 2011," Alexander Rinke, Bastian Nominacher, Martin Klenk"," Analytics, Business Intelligence, SaaS, Software", 1001-5000," $1,367,500,000", 4, 9
+1,TradeRepublic, Berlin, , , , 51-100," $87,201,448", , 
+2,Ada, Berlin, 2011," Claire Novorol, Daniel Nathrath, Martin Hirsch"," Apps, Artificial Intelligence, Health Care, Medical, mHealth", 101-250," $159,497,394", 4, 10
+3,Delivery, Berlin, , , , 10001," $5,144,433,803", , 
+4,uberall, Berlin, 2012," David Federhen, Florian Hubner, Josha Benner"," Information Technology, Location Based Services, Marketing", 101-250," $170,800,000", 8, 7
+5,TIER, Berlin, 2018," Julian Blessin, Lawrence Leuschner, Matthias Laug"," Electric Vehicle, GreenTech, Last Mile Transportation, Ride Sharing", 501-1000," $447,948,158", 6, 18
+6,Foodpanda, Berlin, 2012," Benjamin Bauer, Christian Mischler, Felix Plog, Kiren Tanna, Ralf Wenzel, Rico Wyder, Rohit Chadda, Simon Schmincke"," Delivery, E-Commerce, Food Delivery, Marketplace", 1001-5000," $749,450,000", 8, 8
+7,Scalable, Munich, 2014," Adam French, Erik Podzuweit, Florian Prucker, Manuela Rabener, Patrick Poschl, Simon Miller, Stefan Mittnik"," Asset Management, Financial Services, FinTech", 101-250," € 266,000,000", 6, 10
+8,Trade, Berlin, 2015," Christian Hecker, Marco Cancellieri, Thomas Pischke"," Finance, Financial Services, FinTech, Mobile", 251-500," $995,500,000", 4, 8
+9,FlixBus, Munich, 2011," Andre Schwammlein, Daniel Krauss, Jochen Engert"," Public Transportation, Transportation, Travel", 1001-5000," $1,213,056,722", 7, 16
+10,wefox, Berlin, 2015," Dario Fazlic, Fabian Wesemann, Jonathan Seoane, Julian Teicke, Teodoro Martino"," FinTech, Insurance, InsurTech, Software", 501-1000," $918,500,000", 6, 38
+11,HelloFresh, Berlin, , , , 1001-5000," $367,459,141", , 
+12,SoundCloud, Berlin, 2007," Alexander Ljung, Eric Quidenus-Wahlforss"," Apps, Audio, Independent Music, Music, Music Streaming", 251-500," $542,820,688", 10, 17
+13,Mambu, Berlin, 2011," Eugene Danilkis, Frederik Pfisterer, Sofia Nunes"," Banking, Financial Services, FinTech, Lending", 251-500," € 152,000,000", 6, 9
+14,Lilium, Weßling, 2015," Daniel Wiegand, Matthias Meiner, Patrick Nathen, Sebastian Born"," Aerospace, Air Transportation, Transportation", 501-1000," $376,400,000", 5, 6
+15,Flink, Berlin, 2020," Christoph Cordes, Julian Dames, Nikolas Bullwinkel, Oliver Merkel, Saad Saeed"," E-Commerce, Food and Beverage, Grocery, Internet", 101-250," $304,187,200", 3, 8
+16,Razor, Berlin, 2020," Christoph F. Gamon, Jonas Diezun, Oliver Dlugosch, Shrestha Chowdhury, Tushar Ahluwalia"," Brand Marketing, Business Development, E-Commerce, Internet, Retail", 101-250," € 362,333,333", 6, 9
+17,Forto, Berlin, 2016," Erik Muttersbach, Fabian Heilemann, Ferry Heilemann, Michael Wax"," Freight Service, Logistics, Real Time, Shipping, Software, Supply Chain Management, Transportation", 501-1000," $103,000,000", 4, 13
+18,Sanity, Berlin, 2018," Fabian Friede, Finn Age Haensel"," Biotechnology, Cannabis, Medical, Wellness", 11-50," $78,559,152", 5, 18
+19,WunderMobility, Hamburg, , , , 101-250," $70,000,000", , 
+20,OroraTech, Munich, 2018," Björn Stoffers, Florian Mauracher, Rupert Amann, Thomas Grübler"," Forestry, Image Recognition, Information Services, Software", 11-50," € 7,415,000", 6, 11
+21,YFood, Munich, , , , 51-100," $22,600,000", , 
+22,Habyt, Berlin, 2017, Luca Bovone," Communities, Coworking, Health Care, Lifestyle, Property Management, Real Estate, Smart Building", 11-50," € 29,800,000", 5, 6
+23,OneFootball, Berlin, 2008, Lucas Cranach," Apps, Mobile Apps, News, Software, Sports", 251-500," $141,957,137", 5, 5
+24,parcelLab, Munich, 2015," Anton Eder, Julian Krenge, Tobias Buxhoidt"," Delivery, Logistics, Shipping, Software", 101-250," $112,055,104", 5, 10
+25,ELEMENT, Berlin, 2017," Henning Groß, Inna Leontenkova, Richard Hector, Sascha Herwig"," B2B, Financial Services, Insurance, InsurTech", 101-250," € 66,000,000", 5, 14
+26,Contentful, Berlin, 2013," Paolo Negri, Sascha Konietzke"," Apps, Cloud Computing, Content, Developer Tools, SaaS", 251-500," $159,600,000", 7, 12
+27,Spryker, Berlin, 2014," Alexander Graf, Boris Lokschin"," B2B, B2C, E-Commerce Platforms, Enterprise Software, SaaS", 251-500," $152,000,000", 3, 5
+28,ATAI, Munich, 2018," Christian Angermayer, Florian Brand, Lars Christian Wilde, Srinivas Rao"," Biotechnology, Health Care, Life Science, Therapeutics", 11-50," $347,100,000", 8, 31
+29,Adjust, Berlin, 2012," Christian Henschel, Manuel Kniep, Paul Müller"," Analytics, App Marketing, Apps, Marketing Automation, Software", 501-1000," $255,910,524", 6, 9
+30,TIER, Berlin, , , , 251-500," $130,993,609", , 
+31,CoachHub, Berlin, 2018," Matti Niebelschuetz, Yannis Niebelschuetz"," Artificial Intelligence, Corporate Training, Personal Development, SaaS, Software, Training", 251-500," $54,000,000", 3, 8
+32,Vivid, Berlin, 2020," Alexander Emeshev, Artem Yamanov"," Banking, Financial Services, FinTech, Mobile Apps", 101-250," € 75,000,000", 2, 2
+33,DHL, Bonn, 1969, ," Logistics, Supply Chain Management", 1-10," SEK32,000,000", 1, 1
+34,Infarm, Berlin, 2013," Erez Galonska, Guy Galonska, Osnat Michaeli"," Agriculture, AgTech, Internet of Things, Machine Learning", 251-500," $404,522,397", 9, 20
+35,Solarisbank, Berlin, 2016," Andreas Bittner, Marko Wenthin"," Banking, Financial Services, FinTech, Information Technology", 251-500," € 155,100,000", 4, 16
+36,GetYourGuide, Berlin, 2009," Johannes Reck, Martin Sieber, Tao Tao, Tobias Rein"," Consumer Reviews, E-Commerce, Hospitality, Recreation, Tourism, Travel", 501-1000," $886,168,933", 12, 35
+37,TWAICE, Munich, 2018," Michael Baumann, Stephan Rohr"," Artificial Intelligence, Battery, Information Technology, Predictive Analytics, Software", 51-100," € 35,500,000", 4, 6
+38,Isar, Munich, 2018," Daniel Metzler, Josef Fleischmann, Markus Brandl"," Aerospace, Information Technology, Space Travel", 101-250," $176,718,945", 3, 11
+39,hundred, Berlin, , , , 11-50," $8,000,000", , 
+40,HomeToGo, Berlin, 2014," Nils Regge, Patrick Andrae, Wolfgang Heigl"," Travel, Vacation Rental", 251-500," $176,652,718", 5, 7
+41,Personio, München, 2015," Arseniy Vershinin, Hanno Renner, Ignaz Forstmeier, Roman Schumacher"," Employment, Human Resources, Recruiting, SaaS", 501-1000," $254,332,944", 5, 17
+42,QUIN, Berlin, , , , 11-50," $1,228,399", , 
+43,Volocopter, Bruchsal, 2011," Alexander Zosel, Stephan Wolf"," Aerospace, Air Transportation, Drones, Robotics, Transportation", 251-500," € 369,200,000", 6, 20
+44,Holidu, Munich, 2014," Johannes Siebers, Michael Siebers, Rasmus Porsgaard"," Search Engine, Travel, Vacation Rental", 101-250," $100,363,206", 6, 12
+45,Avi, Munich, 2020," Christoph Baumeister, Julian Kley, Vlad Lata"," Health Care, Medical, mHealth, Personal Health", 11-50," € 38,500,000", 3, 8
+46,Grover, Berlin, 2015, Michael Cassau," Consumer Electronics, PaaS, Rental, Sharing Economy, Subscription Service", 101-250," € 342,000,000", 11, 19
+47,Raccoon.World, Berlin, , , , 11-50," $2,460,425", , 
+48,Cognigy, Düsseldorf, 2016," Benjamin Mayr, Philipp Heltewig, Sascha Poggemann"," Artificial Intelligence, Customer Service, Digital Marketing, Information and Communications Technology (ICT), Information Technology, Machine Learning, Natural Language Processing, Sales Automation, Virtual Assistant", 51-100," € 44,900,000", 6, 6
+49,commercetools, München, 2006," Denis Werner, Dirk Hoerig"," Cloud Computing, E-Commerce, Information Technology, SaaS, Software", 251-500," $167,674,186", 5, 7
+50,Lumenaza, Berlin, 2013," Bernhard Bohmer, Christian Chudoba"," Clean Energy, Energy Management, Green Consumer Goods, GreenTech, Information Technology, Local, Peer to Peer, Renewable Energy, Software", 11-50," € 10,300,000", 4, 6
+51,Enpal, Berlin, 2017," Jochen Ziervogel, Mario Kohle, Viktor Wingert"," Energy, Environmental Consulting, Renewable Energy, Solar", 251-500," € 10,000,000", 7, 9
+52,Zeotap, Berlin, 2014," Daniel Heer, Projjol Banerjea, Stephan Schwebe"," Analytics, Digital Marketing, Marketing, SaaS", 101-250," $81,200,000", 5, 26
+53,airfocus, Hamburg, 2017," Christian Hoffmeister, Malte Scholz, Valentin Firak"," Product Management, SaaS, Software", 11-50," $7,387,435", 3, 3
+54,Morressier, Berlin, 2014," Justus Weweler, Rino Montiel, Sami Benchekroun"," Analytics, Event Management, Events, Information Technology, Market Research, Meeting Software, Software, Video Conferencing", 11-50," $24,200,000", 3, 6
+55,Bunch, Berlin, , , , 11-50," $7,850,000", , 
+56,Alasco, Munich, , , , 11-50," $8,456,135", , 
+57,Zalando, Berlin, , , , 10001," $615,854,262", , 
+58,SimScale, Munich, 2012," Alexander Fischer, Anatol Dammer, David Heiny, Johannes Probst, Vincenz Dölle"," 3D Technology, CAD, Cloud Computing, Internet, Product Design, Simulation, Software", 101-250," € 52,000,000", 6, 9
+59,Choco, Berlin, 2018," Daniel Khachab, Julian Hammer, Rogério Da Silva Yokomizo"," Delivery Service, Food and Beverage, Food Delivery, Marketing, Restaurants, Supply Chain Management", 251-500," $63,700,000", 4, 8
+60,AUTO1, Berlin, 2012," Christian Bertermann, Hakan Koc"," Automotive, Internet, Marketplace", 1001-5000," $1,387,053,390", 10, 23
+61,Billie, Berlin, , , , 11-50," $49,098,706", , 
+62,Finoa, Berlin, 2018," Christopher May, Henrik Gebbing"," Banking, Blockchain, Cryptocurrency, Financial Services, FinTech", 11-50," € 20,800,000", 2, 4
+63,sevDesk, Offenburg, 2013," Fabian Silberer, Marco Reinbold"," Accounting, Cloud Computing, FinTech, Information Technology, SaaS, Small and Medium Businesses, Software", 101-250," € 64,200,000", 3, 7
+64,Signavio, Berlin, 2009," Gero Decker, Mathias Weske, Nicolas Peters, Torben Schreiter, Willi Tscheschner"," Business Development, Computer, SaaS, Software", 251-500," $229,569,948", 3, 3
+65,Babbel, Berlin, 2007," Lorenz Heine, Markus Witte, Thomas Holl"," E-Learning, EdTech, Language Learning", 501-1000," $33,300,000", 4, 8
+66,Silexica, Cologne, 2014," Johannes Emigholz, Maximilian Odendahl, Weihua Sheng"," Application Specific Integrated Circuit (ASIC), Developer Tools, Embedded Software, Embedded Systems, Enterprise Software, Field-Programmable Gate Array (FPGA), Software", 51-100," $29,360,037", 4, 6
+67,Raisin, Berlin, 2012," Frank Freund, Michael Stephan, Tamaz Georgadze"," Banking, Finance, Financial Services, FinTech, Marketplace", 251-500," $206,007,634", 7, 15
+68,IDnow, Munich, 2014," Armin Bauer, Dennis von Ferenczy, Felix Haas, Sebastian Baerhold"," Cloud Data Services, Identity Management, Information Technology, Internet, Legal, Machine Learning, Real Time, Security", 101-250," $58,163,544", 7, 9
+69,Pricefx, Pfaffenhofen An Der Glonn, 2011," Christian Tratz, Marcin Cichon, Martin Wricke"," E-Commerce, Enterprise Applications, Enterprise Software, Information Technology, SaaS, Software", 251-500," $131,274,376", 7, 7
+70,BRYTER, Berlin, 2018, Michael Grupp," Compliance, Enterprise Software, Industrial Automation, Legal Tech, SaaS, Software", 101-250," $89,000,000", 4, 6
+71,Arabesque, Frankfurt, 2017," Andreas Feiner, Dominic Selwood, Hans-Robert Arndt, Omar Selim"," Big Data, Data Center, Data Integration, Data Visualization, Database, Financial Services, Information Services, Software, Sustainability", 51-100," $20,000,000", 2, 6
+72,Camunda, Berlin, 2008," Bernd Ruecker, Jakob Freund"," Enterprise Software, Information Technology, SaaS, Software", 251-500," € 107,000,000", 2, 2
+73,AUTO1-Group, Berlin, , , , 1001-5000," $1,084,314,852", , 
+74,tado°, Munich, 2011," Christian Deilmann, Johannes Schwarz, Leopold von Bismarck, Valentin Sawadski"," Clean Energy, Smart Building, Smart Home", 101-250," $157,482,651", 9, 15
+75,Clark, Frankfurt, 2015," Chris Lodde, Christopher Oster, Garrett Whitmore, Marco Adelt, Steffen Glomb"," FinTech, Insurance, InsurTech", 251-500," $128,050,383", 5, 19
+76,sennder, Berlin, 2015," David Nothacker, Julius Koehler, Nicolaus Schefenacker"," Freight Service, Industrial Automation, Logistics, Shipping", 501-1000," $340,000,000", 8, 17
+77,Peace, Berlin, , , , 1-10," $6,160,789", , 
+78,SellerX, Berlin, 2020," Malte Horeyseck, Philipp Triebel"," Asset Management, Business Development, Small and Medium Businesses", 101-250," $148,618,854", 2, 10
+79,Blinkist, Berlin, 2012," Holger Seim, Niklas Jansen, Sebastian Klein, Tobias Balling"," Education, Mobile Apps, Reading Apps", 51-100," $34,771,978", 5, 7
+80,xbAV, Munich, , , , 101-250," $54,367,662", , 
+81,Omio, Berlin, 2012, Naren Shaam," Internet, Search Engine, Travel, Travel Accommodations", 251-500," $396,000,000", 10, 26
+82,trivago, Düsseldorf, , , , 1001-5000," $54,997,173", , 
+83,EqualTo, Freiburg, 2020," Diarmuid Glynn, Gijs Hubben, Kim Bergstrand"," Human Resources, Information Technology, SaaS, Sales, Sales Automation, Software", 11-50," € 4,530,000", 3, 9
+84,Demodesk, Munich, , , , 1-10," $10,600,000", , 
+85,BITA, Frankfurt, 2018," Christoph Bruck, Paul Herrera, Ruben Feldman, Victor Hugo Gomez Zerpa"," Finance, Financial Services, FinTech", 11-50," € 1,250,000", 3, 4
+86,Dance, Berlin, 2020," Alexander Ljung, Christian Springub, Eric Quidenus-Wahlforss"," Consumer, Electric Vehicle, Internet, Subscription Service", 11-50," € 19,000,000", 3, 11
+87,bookingkit, Berlin, , , , 101-250," $5,888,338", , 
+88,Transporeon, Ulm, 2000," Leander Kling, Marc-Oliver Simon, Peter Forster"," Enterprise Software, Logistics, Supply Chain Management", 251-500," £35,000,000", 2, 2
+89,Taxfix, Berlin, 2016," Lino Teuteberg, Mathis Buchi"," Accounting, Apps, Software", 251-500," $110,000,000", 4, 4
+90,Nuri, Berlin, 2015," Benjamin Jones, Jan Goslicki, Jorg von Minckwitz"," Banking, Bitcoin, Blockchain, Cryptocurrency, Financial Services, FinTech", 51-100," € 33,296,429", 7, 12
+91,Bitwala, Berlin, , , , 51-100," $21,791,656", , 
+92,Upvest, Berlin, 2017," Ivan Morozov, Jesper Noehr, Martin Kassing"," Banking, Financial Services, FinTech, Information Technology, Software", 11-50," € 17,700,000", 5, 8
+93,Staffbase, Chemnitz, 2014," Frank Wolf, Lutz Gerlach, Martin Bohringer"," Business Information Systems, Collaboration, Human Resources, Information Technology", 251-500," $190,827,764", 6, 6
+94,AMBOSS, Berlin, 2012," Benedikt Hochkirchen, Jan Sievert Weiss, Kenan Hasan, Madjid Salimi, Nawid Salimi"," E-Learning, Education, Health Care, Hospital, Medical, mHealth, Universities", 101-250," € 35,000,000", 4, 5
+95,Uniper, Düsseldorf, , , , 10001," $4,500,000,000", , 
+96,Tourlane, Berlin, 2016," Julian Stiefel, Julian Weselek"," Internet, Leisure, Reservations, Tourism, Travel", 251-500," $101,000,000", 5, 10
+97,Wunder, Hamburg, 2014," Gunnar Froh, Samuel Baker"," Apps, B2B, Car Sharing, Electric Vehicle, Fleet Management, Ride Sharing, SaaS, Software", 101-250," $70,000,000", 5, 25
+98,Centrifuge, Berlin, 2017," Lucas Vogelsang, Markus Ament, Martin Quensel, Philip Stehlik"," Computer, FinTech, Information Technology, Software", 11-50," $11,800,000", 4, 18
+99,Searchmetrics, Berlin, , , , 251-500," $46,235,961", , 
+100,Lingoda, Berlin, 2013," Fabian Wunderlich, Felix Wunderlich"," E-Learning, EdTech, Internet, Language Learning, Online Portals", 101-250," € 69,700,000", 9, 8
+101,StudySmarter, München, 2017," Christian Felgenhauer, Maurice Khudhir, Simon Hohentanner, Till Sohlemann"," Artificial Intelligence, Education", 11-50," € 12,400,000", 4, 8
+102,OptioPay, Berlin, 2014," Marcus Borner, Mike Rötgers, Moritz Claussen, Oliver Neumann, Oliver Oster"," Advertising Platforms, Banking, Financial Services, FinTech, Insurance, Personal Finance", 51-100," $26,398,223", 7, 18
+103,Penta, Berlin, , , , 101-250," $44,712,827", , 
+104,Stocard, Mannheim, 2012," Björn Goß, David Handlos, Florian Barth"," FinTech, Information Services, Information Technology, Internet, Mobile Apps", 51-100," $31,099,191", 5, 9
+105,scoutbee, Berlin, 2015," Christian Heinrich, Fabian Heinrich, Gregor Stuhler, Lee Galbraith"," Analytics, Artificial Intelligence, B2B, Big Data, Information Technology, Logistics, Machine Learning, Procurement, SaaS, Software", 101-250," $76,000,000", 3, 6
+106,cargo.one, Berlin, 2017," Mike Rötgers, Moritz Claussen, Oliver Neumann"," Freight Service, Information Technology, Logistics, Supply Chain Management", 101-250," $63,800,000", 3, 8
+107,omnius, Berlin, , , , 51-100," $44,108,775", , 
+108,Deposit, Hamburg, 2011, Tim Sievers," Banking, Financial Services, FinTech", 101-250," $198,871,072", 6, 11
+109,PlusDental, Berlin, 2017," Lukas Brosseder, Peter Baumgart"," Dental, Health Care", 101-250," € 77,000,000", 6, 11
+110,KONUX, Munich, 2014," Andreas Kunze, Dennis Humhal, Maximilian Hasler, Michael Wax, Vlad Lata"," Artificial Intelligence, Information Technology, Machine Learning, Railroad, Software", 51-100," $130,614,116", 10, 23
+111,Asklepios, Hamburg, , , , 10001," $857,490,887", , 
+112,Cosuno, Berlin, 2018," Christoph Berner, Fritz Cramer, Maximilian Seifert"," Construction, Software", 11-50," € 12,500,000", 2, 11
+113,Tubulis, Munich, , , , 1-10," $13,824,063", , 
+114,Spark, Berlin, , , , 251-500," $11,300,000", , 
+115,CrossLend, Berlin, 2014, Oliver Schimek," Commercial Lending, Credit, Finance, Financial Services, FinTech, Marketplace", 101-250," € 49,000,000", 7, 10
+116,Kontist, Berlin, 2016," Alexander Baatz, Catharina Bruns, Christopher Plantener, Madison Bell, Sebastian Galonska, Sophie Pester"," Accounting, Banking, Finance, Financial Services, Non Profit, Payments", 101-250," € 37,500,000", 4, 3
+117,Fridai, Berlin, , , , 1-10," $298,330", , 
+118,CHRONEXT, Cologne, 2013," Ludwig Wurlitzer, Philipp Man"," Collectibles, E-Commerce, Fashion, Lifestyle, Retail", 101-250," $116,629,212", 5, 17
+119,heartbeat, Berlin, , , , 11-50," $9,426,813", , 
+120,finn.auto, Munich, 2019," Andreas Wixler, Hans-Peter Ringer, Max-Josef Meier, Maximilian Wühr, Nikolai Schröder"," Automotive, Leasing", 11-50," € 28,800,000", 3, 8
+121,Ascent, Düsseldorf, , , , 11-50," $26,745,000", , 
+122,Moonfare, Berlin, 2016," Alexander Argyros, Heinrich von Liechtenstein, Steffen Pauls"," Asset Management, Financial Services, FinTech", 51-100," $28,000,000", 3, 5
+123,Gorillas, Berlin, 2020," Jörg Kattner, Kağan Sümer, Ronny Shibley"," Delivery, Delivery Service, Grocery, Same Day Delivery", 1001-5000," $335,415,309", 3, 9
+124,ELEMENT, Berlin, , , , 101-250," $43,747,104", , 
+125,Huuuge, Berlin, 2014, Anton Gauffin," Gaming, Online Games, Social", 251-500," $57,199,998", 3, 4
+126,Seven, Berlin, 2014," Johannes Plehn, Thomas Hagemann"," Delivery Service, E-Commerce, Logistics, Shipping, Supply Chain Management", 51-100," $65,798,537", 4, 6
+127,Checkly, Berlin, , , , ," $2,250,000", , 
+128,Lykon, Berlin, 2015, ," Health Care, Internet", 11-50," € 6,400,000", 2, 3
+129,ResearchGate, Berlin, 2008," Horst Fickenscher, Ijad Madisch, Sören Hofmayer"," Internet, Professional Networking, Social Media", 251-500," $87,600,000", 4, 22
+130,insha, Berlin, , , , 1-10," $3,236,836", , 
+131,TIMIFY, Munich, , , , 11-50," $12,649,026", , 
+132,Cleanhub, Berlin, 2020, Bosse Rothe," Fast-Moving Consumer Goods, Green Consumer Goods, Internet, Supply Chain Management", ," € 4,000,000", 1, 9
+133,Westwing, Munich, , , , 1001-5000," $237,498,239", , 
+134,Home24, Berlin, , , , 1001-5000," $172,712,063", , 
+135,n8n.io, Berlin, 2019, , SaaS, 11-50," $13,500,000", 2, 11
+136,Blacklane, Berlin, 2011," Frank Steuer, Jens Wohltorf"," Hospitality, Professional Services, Tourism, Transportation, Travel", 251-500," $102,967,714", 9, 11
+137,Exporo, Hamburg, , , , 101-250," $66,292,169", , 
+138,Toposens, Munich, , , , 11-50," $2,240,019", , 
+139,ProGlove, Munich, 2014," Alexander Grots, Jonas Girardet, Manuel Boenisch, Paul Günther, Thomas Kirchner"," Automotive, Industrial, Logistics, Manufacturing, Supply Chain Management, Wearables", 101-250," $49,076,900", 6, 5
+140,Clue, Berlin, 2012," Hans Raffauf, Ida Tin, Moritz von Buttlar"," Apps, Fertility, Fitness, Health Care, mHealth, Wellness, Women's", 101-250," $29,683,950", 7, 19
+141,DABBEL, Düsseldorf, 2018, Abel Samaniego," Artificial Intelligence, Energy Efficiency, Internet of Things, Machine Learning, Smart Building", 1-10," € 3,600,000", 2, 4
+142,Meditopia, Berlin, 2015," Ali Murat Ceylan, Berk Yilmaz, Fatih Mustafa Celebi"," Apps, Fitness, Health Care, mHealth, Personal Health, Wellness", 51-100," $18,160,000", 4, 11
+143,Baze, Berlin, 2014," Crina Okumus, Isam Haddad, Jan Vichr, Markus Okumus, Philipp Schulte"," Beauty, Fitness, Health Care, Wellness", 11-50," $6,000,000", 3, 4
+144,Endel, Berlin, 2018, Oleg Stavitsky," Mobile, Music, Personal Health, Productivity Tools, Smart Cities, Smart Home, Software Engineering", 1-10," $7,501,762", 5, 13
+145,Jedox, Freiburg, 2002," Gabriele Raue, Kristian Raue"," Analytics, Cloud Computing, Enterprise Software, SaaS, Software", 101-250," $140,603,952", 6, 4
+146,ESL, Cologne, 1996, William Perry," Electronics, eSports, Sports", 251-500," $30,000,000", 1, 
+147,Metalshub, Düsseldorf, 2016," Frank Jackel, Sebastian Kreft"," Logistics, Mining, Software", 11-50," $14,429,825", 3, 6
+148,Receeve, Hamburg, 2019," Michael Backes, Paul Jozefak"," Debt Collections, Financial Services, FinTech", 11-50," $19,094,510", 3, 5
+149,Berlin, Berlin, 2005, Peter Chaljawski," Consumer Electronics, E-Commerce, Retail", 501-1000," $240,000,000", 1, 3
+150,FinTecSystems, München, 2014," Dirk Rudolf, Stefan Krautkrämer"," Analytics, Banking, Finance, Financial Services, FinTech, Payments", 51-100," € 4,500,000", 3, 5
+151,United, Montabaur, 2006, Ralph Dommermuth," Internet, ISP, Web Hosting", 5001-10000," € 450,000,000", 1, 1
+152,UX3D, Munich, 2017," Norbert Nopper, Thomas Kress"," 3D Technology, Artificial Intelligence, Augmented Reality, Virtual Reality", 11-50," € 990,000", 4, 1
+153,G2, Berlin, 2013," Carlos Rodríguez, Jens Hilgers"," Digital Entertainment, eSports, Sports, Video Games", 51-100," $27,300,000", 3, 13
+154,NavVis, Munich, 2013," Felix Reinshagen, Georg Schroth, Robert Huitl, Sebastian Hilsenbeck"," Indoor Positioning, Information Technology, Location Based Services, Navigation, Software", 101-250," $68,248,577", 6, 9
+155,Smava, Berlin, 2007," Alexander Artope, Eckart Vierkant"," Finance, Financial Services", 501-1000," $188,684,685", 7, 15
+156,Rows, Berlin, 2016," Humberto Ayres Pereira, Rui Maranhao, Torben Schulz"," Internet, Productivity Tools, Software, Web Apps, Web Design, Web Development", 11-50," $25,000,000", 4, 7
+157,Sono, Munich, 2016," Jona Christians, Laurin Hahn, Navina Pernsteiner"," Automotive, B2B, B2C, CleanTech, Electric Vehicle, Manufacturing, Mobile Apps, Solar, Transportation", 101-250," $126,588,253", 6, 7
+158,Isotopen, Garching, 2004, Oliver Buck," Biopharma, Biotechnology, Medical Device, Pharmaceutical", 1-10," € 175,000,000", 4, 5
+159,EGYM, Munich, 2010," Florian Sauter, Philipp Roesch-Schlanderer"," Fitness, Sports, Wellness", 251-500," $143,471,520", 6, 7
+160,Global, Munich, 2012," Adrian Renner, Andreas Fruth, Gerhard Trautmann, Pedro Clavería"," Content Delivery Network, Content Discovery, E-Commerce, Internet, Publishing", 501-1000," € 65,500,000", 9, 7
+161,AMSilk, Planegg, 2008, Lin Römer, Biotechnology, 11-50," € 34,000,000", 3, 5
+162,Resourcify, Hamburg, 2015, Gary Lewis," Renewable Energy, Software, Waste Management", 1-10," € 4,000,000", 2, 3
+163,Mia, Berlin, , , , 11-50," $5,387,460", , 
+164,HiveMQ, Landshut, 2012," Christian Götz, Dominik Obermaier"," Enterprise Software, Information Technology, Internet of Things, Software", 11-50," € 9,300,000", 1, 6
+165,Sympatient, Hamburg, , , , 11-50," $1,773,360", , 
+166,Productsup, Berlin, 2010," Johannis Hatt, Kai Seefeldt"," Cloud Data Services, Content Syndication, Data Integration, Digital Marketing, E-Commerce, E-Commerce Platforms, Information Technology, Marketing, Marketing Automation, Retail Technology, SaaS, Software", 101-250," $20,000,000", 3, 6
+167,Neufund, Berlin, , , , 11-50," $6,081,578", , 
+168,Tillhub, Berlin, , , , 11-50," $8,219,541", , 
+169,ottonova, Munich, 2015," Frank Birzle, Roman Rittweger, Sebastian Scheerer"," Health Care, Health Insurance, Insurance", 101-250," € 85,000,000", 4, 6
+170,Building, Munich, 2014," Artem Ostankov, Leopold Neuerburg, Paul Indinger, Raoul Friedrich"," Artificial Intelligence, Big Data, Construction, Lead Generation", 11-50," € 5,000,000", 6, 10
+171,Planetly, Berlin, 2019, Benedikt Franke," Environmental Consulting, Information Technology", 1-10," € 5,200,000", 2, 5
+172,Coya, Berlin, 2016," Andrew Shaw, Peter Hagen, Sebastian Villarroel"," Artificial Intelligence, FinTech, Insurance, InsurTech, Internet", 101-250," $40,000,000", 2, 4
+173,Fyber, Berlin, , , , 251-500," $129,490,000", , 
+174,payever, Hamburg, , , , 11-50," $810,093", , 
+175,Topas, Hamburg, , , , 51-100," $46,257,377", , 
+176,Air, Munich, 2018, ," Food and Beverage, Sustainability", 51-100," € 18,000,000", 4, 7
+177,Zenjob, Berlin, 2015," Cihan Aksakal, Frederik Fahning, Fritz Trott, Stephan von Perger"," Employment, Human Resources, Recruiting, Staffing Agency", 101-250," € 50,600,000", 6, 7
+178,Flow, Berlin, 2018," David Jacob, Jonas Vossler Winkelmann, Peter Schwarz"," Fitness, Lifestyle, Mobile Apps, Personal Health, Psychology, Wellness", 1-10," € 1,240,000", 3, 3
+179,Helpling, Berlin, 2014," Alberto Cartasegna, Alexandra Depledge, Benedikt Franke, Kai Koch, Manar Alkassar, Philip Huffmann, Yeenteck Hoe"," Apps, Home Services, Internet, Marketplace, Real Estate", 101-250," $95,048,939", 6, 12
+180,ZOLAR, Berlin, , , , 51-100," $33,569,057", , 
+181,Senorics, Dresden, 2017," Karl Leo, Ronny Timmreck"," Big Data, Internet of Things, Semiconductor, Sensor", 11-50," € 10,300,000", 3, 5
+182,Modifi, Berlin, 2018," Jan Wehrs, Nelson Holzner, Sven Brauer"," Financial Services, FinTech", 11-50," $69,599,121", 3, 4
+183,DeepSpin, Berlin, , , , 1-10," $674,024", , 
+184,Mister, Berlin, 2007," Bjoern Sykora, Dirk Graber, Lukasz Gadowski, Philipp Frenkel, Thilo Hardt"," E-Commerce, Eyewear, Internet, Retail, Shopping", 251-500," $158,009,427", 10, 18
+185,Cluno, Munich, 2017," Andreas Schuierer, Christina Maria Polleti, Nico Polleti"," Automotive, E-Commerce, Rental, Service Industry, Subscription Service", 51-100," $190,190,965", 4, 3
+186,shyftplan, Berlin, 2013," Jan-Martin Josten, John Nitschke"," Human Resources, SaaS, Scheduling, Software", 11-50," € 11,450,000", 3, 5
+187,peaq, Berlin, , , , 11-50," $878,062", , 
+188,FRIDAY, Berlin, 2017," Christoph Samwer, Florian Eismann"," Finance, Insurance, InsurTech", 101-250," € 114,000,000", 1, 3
+189,ultimate.ai, Berlin, 2016," Jaakko Pasanen, Markus Rautio, Reetu Kainulainen, Sarah Al-Hussaini"," Artificial Intelligence, CRM, Customer Service, Enterprise Software, SaaS, Virtual Assistant", 51-100," $27,400,544", 6, 7
+190,simplesurance, Berlin, 2012," Felix Jankowski, Ismail Asci, Joachim von Bonin, Patrick Frey, Robin von Hein"," E-Commerce, Financial Services, FinTech, Insurance, InsurTech, Internet", 101-250," $78,064,754", 10, 19
+191,quantilope, Hamburg, 2014," Lucas Bremer, Mark Heitmann, Peter Aschmoneit, Thomas Fandrich"," Information Technology, Market Research, SaaS, Software", 101-250," $40,000,000", 4, 5
+192,Medwing, Berlin, 2017," Johannes Roggendorf, Timo Fischer"," Health Care, Human Resources, Recruiting", 101-250," € 28,000,000", 5, 8
+193,CrowdDesk, Frankfurt, 2015," Jamal El Mallouki, Johannes Laub"," Financial Services, FinTech, SaaS", 11-50," $10,300,000", 2, 2
+194,Wandelbots, Dresden, 2017," Christian Piechnick, Christoph Biering, Frank Fitzek, Georg Puschel, Giang Nguyen, Jan Falkenberg, Maria Piechnick, Sebastian Werner"," Human Computer Interaction, Industrial Automation, Machine Learning, Robotics, Wearables", 51-100," $38,184,408", 4, 12
+195,Homeday, Berlin, 2015," Dmitri Uvarovski, Steffen Wicker"," Commercial Real Estate, Real Estate, Real Estate Investment", 101-250," $71,424,171", 4, 10
+196,omni:us, Berlin, 2015," Eric Pfarl, Harald Gölles, Martin Micko, Sofie Quidenus-Wahlforss, Stephan Dorfmeister"," Artificial Intelligence, Computer Vision, Information Technology, Insurance, InsurTech, Machine Learning, Software, Software Engineering", 51-100," $44,108,775", 7, 17
+197,Plantix, Berlin, 2015," Alexander Kennepohl, Bianca Kummer, Charlotte Schuhmann, Korbinian Hartberger, Pierre Munzel, Robert Strey, Simone Strey"," AgTech, Apps, Artificial Intelligence, Image Recognition", 101-250," € 17,150,000", 5, 7
+198,Solactive, Frankfurt, 2007, ," Finance, Financial Services", 101-250," $60,400,000", 1, 1
+199,ABOUT, Hamburg, 2014," Sebastian Betz, Tarek Muller"," E-Commerce, Fashion, Marketing, Personalization, Retail, Shopping", 501-1000," $300,000,000", 2, 3
+200,KIWI, Berlin, 2012," Christian Bogatu, Claudia Nagel, Peter Dietrich"," Cloud Computing, Hardware, Internet of Things, Real Estate, Security, Sensor, Smart Home", 51-100," € 14,000,000", 4, 6
+201,Lamudi, Berlin, 2013," Jacqueline van den Ende, Kian Moini, Paul Philipp Hermann"," Commercial Real Estate, E-Commerce, Internet, Real Estate", 251-500," $56,400,000", 4, 6
+202,JenaValve, Munich, 2006," Hans-Reiner Figulla, Ronald Reich"," Health Care, Medical, Medical Device", 101-250," $191,067,861", 8, 14
+203,Wingcopter, Darmstadt, 2017," Ansgar Kadura, Jonathan Hesselbarth, Tom Plümmer"," Aerospace, Air Transportation, Drones, Last Mile Transportation, Logistics", 51-100," $22,000,000", 3, 5
+204,Foodspring, Berlin, 2013," Marc Hermann, Philipp Schrempp, Tobias Schuele"," Fitness, Food and Beverage, Health Care, Lifestyle, Marketing, Wellness", 101-250," € 28,000,000", 2, 5
+205,Everphone, Berlin, 2016," Jan Dzulko, Nadine Kolbe"," Fleet Management, Mobile, Mobile Devices, Service Industry", 51-100," € 41,427,000", 4, 11
+206,Usercentrics, Munich, 2018," Jürgen Weichert, Lisa Gradow, Mischa Rurup, Vinzent Ellissen"," Cyber Security, Digital Marketing, Identity Management, Law Enforcement, Legal, Legal Tech, Marketing Automation, Privacy, SaaS, Software", 101-250," € 21,000,000", 3, 7
+207,LIQID, Berlin, 2016," Arne Zeising, Christian Schneider-Sickert, Jonas Tebbe, Kyros Khadjavi, Paul Becker"," Financial Services, FinTech, Wealth Management", 51-100," € 42,500,000", 4, 5
+208,Userlane, München, 2015," Felix Eichler, Hartmut Hahn, Kajetan Uhlig"," Information Technology, Internet, SaaS, Software, UX Design", 101-250," € 14,000,000", 3, 6
+209,NAGA, Hamburg, , , , 101-250," $14,958,102", , 
+210,Limehome, Munich, 2018," Josef Vollmayr, Lars Stabe"," Business Travel, Hospitality, Hotel, Tourism, Travel, Travel Accommodations", 51-100," € 36,000,000", 3, 4
+211,expertlead, Berlin, , , , 51-100," $7,957,945", , 
+212,Quandoo, Berlin, 2012," Anton Rummel, Daniel Glasner, Philipp Magin, Ronny Lange, Sebastian Moser, Tim-Hendrik Meyer"," Product Design, Reservations, Restaurants, Technical Support", 251-500," $39,500,000", 5, 9
+213,GETFASTER.IO, Düsseldorf, 2020," Anton Zakharov, Dmitry Bergelson, George Skalsky, Kirill Solonitsyn"," Consumer, Consumer Goods, Delivery, E-Commerce, Food and Beverage, Food Delivery, Grocery, Retail, Retail Technology, Same Day Delivery", 11-50," € 1,500,000", 4, 2
+214,Merantix, Berlin, 2016," Adrian Locher, Rasmus Rothe"," Artificial Intelligence, Big Data, Health Care, Health Diagnostics, Machine Learning, Predictive Analytics, Software", 51-100," $37,548,634", 2, 5
+215,Applift, Berlin, , , , 251-500," $20,000,000", , 
+216,N26, Berlin, 2013," Maximilian Tayenthal, Valentin Stalf"," Banking, Finance, Financial Services, FinTech", 1001-5000," $819,009,300", 9, 18
+217,Lambus, Osnabrück, 2018," Anja Niehoff, Hans Knöchel, Hendrik Scherer, Leon Braun, Niklas Kling, Torben Pretzel"," Blogging Platforms, Collaboration, Content Discovery, Mobile Apps, Online Portals, Tourism, Travel, Web Apps", 11-50," $690,000", 2, 2
+218,Quarters, Berlin, , , , 101-250," $300,000,000", , 
+219,Agile, Gilching, 2018," Peter Meusel, Zhaopeng Chen"," Artificial Intelligence, Industrial Automation, Machine Learning, Robotics", 51-100," CN¥130,000,000", 3, 8
+220,3YOURMIND, Berlin, 2014," Aleksander Ciszek, Stephan Kuehr"," 3D Printing, 3D Technology, Enterprise Software, Industrial Manufacturing, Manufacturing, Software", 51-100," $32,859,690", 6, 10
+221,Scantinel, Ulm, 2019, ," 3D Technology, Automotive, Autonomous Vehicles", 11-50," € 7,500,000", 1, 1
+222,Impulse, Stuttgart, 1996," Lewis Pell, Shlomo Haim, Simos Kedikoglou"," Biotechnology, Hospital, Medical, Medical Device", 101-250," $215,250,000", 4, 12
+223,Riskmethods, Munich, 2013," Heiko Schwarz, Rolf Zimmer"," SaaS, Software", 101-250," $24,269,764", 5, 6
+224,Sablono, Berlin, 2013," Florian Meichsner, Lukas Olbrich, Sven Richter"," Construction, Digital Marketing, Internet, Software", 1-10," € 6,300,000", 5, 6
+225,thyssenkrupp, Essen, , , , 10001," $1,659,827,781", , 
+226,Moss, Berlin, 2019, ," Accounting, Credit Cards, Financial Services, FinTech", 11-50," € 21,000,000", 1, 3
+227,Schüttflix, Gütersloh, 2018," Christian Hülsewig, Thomas Hagedorn"," Construction, Marketplace", 11-50," € 14,000,000", 2, 2
+228,Zeitgold, Berlin, 2015," Jan Deepen, Kobi Eldar, Stefan Jeschonnek"," Artificial Intelligence, Financial Services, FinTech, Small and Medium Businesses", 101-250," € 51,200,000", 5, 9
+229,InstaFreight, Berlin, 2016," Markus Doetsch, Maximilian Schaefer, Philipp Ortwein"," B2B, Freight Service, Logistics, Transportation", 101-250," € 31,000,000", 4, 3
+230,Holoride, Munich, 2018," Daniel Profendiner, Marcus Kühne, Nils Wollny"," Automotive, Digital Entertainment, Digital Media, Software, Virtual Reality", 11-50," € 10,000,000", 1, 1
+231,Asana, Berlin, 2015," Pascal Klein, Robin Pratap"," Apps, Fitness, Health Care, Lifestyle, Nutrition, Wellness", 101-250," $24,800,000", 4, 9
+232,MILES, Berlin, 2016," Alexander Eitner, Florian Haus, Timo Nuehrich"," Apps, Automotive, Car Sharing", 101-250," € 5,000,000", 3, 11
+233,Spotcap, Berlin, 2014," Jens Woloszczak, Toby Triebel"," Finance, Financial Services, FinTech, Lending, Small and Medium Businesses", 101-250," $112,910,762", 6, 6
+234,Unu, Berlin, 2013," Elias Atahi, Mathieu Caudal, Pascal Leonard Blum"," Electric Vehicle, Hardware, Last Mile Transportation, Mobile, Transportation", 101-250," $43,282,884", 7, 8
+235,Sunfire, Dresden, 2010," Carl Berninghausen, Christian Olshausen, Nils Aldag"," Energy, Fuel, Industrial, Manufacturing, Renewable Energy", 101-250," € 39,000,000", 5, 9
+236,Lengoo, Berlin, 2014," Alexander Gigga, Christopher Kränzler, Philipp Koch-Buettner"," Artificial Intelligence, Machine Learning, Translation Service", 11-50," $26,578,103", 3, 14
+237,Aareon, Mainz, 1957, ," Consulting, Software", 1001-5000," $308,000,000", 1, 1
+238,Comtravo, Berlin, 2015," Jannik Neumann, Michael Riegel, Simon Schmincke, Slobodan Utvic"," Business Travel, Tourism, Travel", 101-250," € 38,500,000", 4, 14
+239,ecoworks, Berlin, 2018," Emanuel Heisenberg, Kristofer Fichtner", Architecture, 11-50," € 7,320,000", 3, 9
+240,nextmarkets, Cologne, 2014," Dominic Heyden, Manuel Heyden"," Financial Services, FinTech, Stock Exchanges, Trading Platform", 11-50," $43,318,971", 4, 9
+241,insureQ, Munich, 2019," Alexander Marius Le Prince, Iven Schorr, Johannes Breulmann, Laibing Yang, Luisa Müller-Wittmann"," Financial Services, FinTech, Insurance, InsurTech", 11-50," € 5,000,000", 2, 4
+242,SHAPE, Stuttgart, , , , 11-50," $4,721,889", , 
+243,e-bot7, München, 2016," Fabian Beringer, Maximilian Gerer, Xaver Lehmann"," Artificial Intelligence, CRM, Machine Learning, Marketing Automation, SaaS, Sales Automation, Software, Virtual Assistant", 101-250," € 8,140,000", 4, 4
+244,FinCompare, Berlin, 2016," Nicolay Ofner, Sarp Dag Demirel, Stephan Heller"," Banking, Commercial Lending, Finance, Financial Services, FinTech, Marketplace, SaaS, Small and Medium Businesses", 51-100," € 24,500,000", 4, 13
+245,CANDIS, Berlin, 2015," Christian Ritosek, Christopher Becker, Garik Suess"," Accounting, Artificial Intelligence, Financial Services, FinTech, SaaS, Software", 101-250," € 13,000,000", 4, 8
+246,Jimdo, Hamburg, 2007," Christian Springub, Fridtjof Detzner, Matthias Henze"," Internet, Web Development", 101-250," € 25,500,000", 3, 2
+247,Mapify, Berlin, 2017," David Pflugpeil, Magnus Langanke, Patrick Haede, Sebastian Hade, Sebastian Haede, Tobi Schnorpfeil"," Adventure Travel, Internet, Marketplace, Travel, Travel Accommodations", 11-50," $1,300,000", 2, 7
+248,21strategies, Munich, 2020," Dr. Christian Brandlhuber, Dr. Scott Muller, Prof. Yvonne Hofstetter"," Artificial Intelligence, Finance, Financial Exchanges, Financial Services, FinTech, SaaS", 1-10," € 1,500,000", 2, 2
+249,Sensefinity, Berlin, 2014," Marco Marques, Orlando Remédios"," Artificial Intelligence, Internet of Things, Logistics", 11-50," $2,135,831", 5, 10
+250,Arculus, Ingolstadt, 2016," Fabian Rusitschka, Frank Hempel, Marius Leffler, Witold Kopytynski"," Industrial Automation, Logistics, Manufacturing, Software", 11-50," $21,001,301", 8, 7
+251,Arago, Frankfurt, 1995, Chris Boos," Artificial Intelligence, Data Center Automation, Enterprise Software, Information Technology, Machine Learning", 101-250," $60,500,000", 3, 3
+252,Loyalty, Munich, , , , 51-100," $7,007,513", , 
+253,YFood, Munich, 2017," Benjamin Kremer, Noel Bollmann"," Food and Beverage, Food Processing, Nutrition", 51-100," $22,600,000", 4, 6
+254,Finanzchef24, München, 2012," Felix Schollmeier, Hendrik Rennert"," Finance, Financial Services, FinTech, Insurance, InsurTech", 101-250," € 14,000,000", 5, 6
+255,Bosch, Stuttgart, 1886," ahmed almzwghe, Robert Bosch"," Automotive, Consumer Goods, Electronics, Industrial, Industrial Engineering, Information Technology, Manufacturing, Mechanical Engineering, Sensor", 10001+, , , 
+256,Treasury, Walldorf, 2010," Erol Bozak, Joerg Wiemer"," Big Data, Business Intelligence, Cloud Computing, Cloud Security, Enterprise Software, Payments, SaaS, Software", 101-250," $41,109,370", 6, 6
+257,In, Munich, , , , 11-50," $22,324,525", , 
+258,Comatch, Berlin, 2014," Christoph Hardt, Jan Schachtele"," Consulting, Internet, Marketplace, Recruiting", 101-250," € 12,000,000", 3, 6
+259,reBuy, Berlin, 2004," Lawrence Leuschner, Tim Fronzek"," E-Commerce, Electronics, Marketplace, Sales", 501-1000," € 21,000,000", 4, 10
+260,RatePAY, Berlin, 2009," Alexis Giesen, Miriam Wohlfarth"," Financial Services, Internet, Payments, Trading Platform", 251-500," € 83,000,000", 1, 1
+261,ChartMogul, Berlin, 2014, Nick Franklin," Business Intelligence, Internet, SaaS, Software", 11-50," $3,700,000", 3, 7
+262,EyeEm, Berlin, 2011," Florian Meissner, Gen Sadakane, Lorenz Aschoff, Ramzi Rizk"," Artificial Intelligence, Computer, Image Recognition, Mobile, Photo Sharing, Photography, Visual Search", 101-250," $24,000,000", 5, 7
+263,Mila, Berlin, 2013, Manuel Grenacher," Collaborative Consumption, Crowdsourcing, Location Based Services, Mobile", 11-50," $3,220,000", 3, 4
+264,Sharpist, Berlin, 2018," Dominik Lahmann, Fabian Niedballa, Hendrik Schriefer"," Professional Services, Software, Training", 11-50," $5,000,000", 3, 5
+265,Outfittery, Berlin, 2012," Anna Alex, Julia Bosch"," E-Commerce, Fashion, Shopping", 251-500," $59,817,542", 6, 14
+266,Shore, Munich, 2012," Alexander Henn, Philip Magoulas, Sebastian Nienaber"," CRM, Payments, Point of Sale, Retail, SaaS, Service Industry, Small and Medium Businesses, Software", 251-500," € 11,550,000", 7, 16
+267,Mylivn, Munich, , , , 11-50," $6,231,710", , 
+268,Luminovo, Munich, 2017," Sebastian Schaal, Timon Ruban"," Electronics, SaaS, Software", 11-50," € 4,800,000", 7, 16
+269,Humanoo, Berlin, 2016, Philip Pogoretschnik," Apps, Fitness, Health Care, Human Resources, Personal Health, Software, Wellness", 51-100," € 7,303,150", 3, 6
+270,Brickblock, Berlin, , , , 11-50," $5,775,801", , 
+271,Fraugster, Berlin, 2014," Chen Zamir, Max Laemmle"," Artificial Intelligence, Big Data, Financial Services, FinTech, Fraud Detection, Machine Learning, Mobile Payments, Payments", 51-100," $19,000,000", 2, 7
+272,Vermietet.de, Berlin, 2016," Dmitry Dzifuta, Jannes Fischer"," Internet, Real Estate, Rental Property, Social Entrepreneurship", 11-50," € 17,000,000", 5, 13
+273,Roadsurfer, Munich, 2017, ," Leisure, Recreational Vehicles, Rental, Tourism", 101-250," € 24,000,000", 1, 4
+274,Market, Berlin, 2006," Elizabeth Parsons Morgan, Olaf Lenzmann"," Information Technology, Market Research, Marketing, Software", 501-1000," € 46,523,054", 4, 4
+275,BuildingRadar, Munich, , , , 11-50," $5,461,436", , 
+276,Movinga, Berlin, 2015," Bastian Knutzen, Chris Maslowski, Finn Age Haensel"," Internet, Logistics, Service Industry, Small and Medium Businesses, Supply Chain Management", 251-500," $92,806,265", 6, 23
+277,AnyDesk, Stuttgart, 2012," Andreas Burike, Andreas Mähler, Olaf Liebe, Philipp Weiser"," Apps, Customer Service, Information Technology, Software", 11-50," € 6,500,000", 3, 5
+278,Tomorrow, Hamburg, 2017," Inas Nureldin, Jakob Berndt, Michael Schweikart"," Banking, Financial Services", 1-10," € 3,000,000", 2, 1
+279,FinLab, Frankfurt, , , , 11-50," $12,822,196", , 
+280,Composable, Berlin, 2021, ," Blockchain, Financial Services", 11-50," $7,000,000", 1, 19
+281,Inkitt, Berlin, 2014, Ali Albazaz," Analytics, Content, Publishing", 51-100," $21,000,000", 3, 20
+282,WorkMotion, Berlin, 2020, , Human Resources, 11-50," € 2,200,000", 1, 5
+283,Thermondo, Berlin, 2012," Florian Tetzlaff, Kristofer Fichtner, Philipp Pausder"," Energy, Energy Efficiency, Renewable Energy", 101-250," € 63,300,000", 6, 13
+284,Native, Berlin, 1996, Daniel Haver," Audio, Music, Musical Instruments, Software", 501-1000," € 50,000,000", 1, 1
+285,Teraki, Berlin, 2014," Daniel Richart, Markus Kopf"," Apps, Autonomous Vehicles, Information Technology", 11-50," $16,096,420", 9, 18
+286,INZMO, Berlin, 2015," Meeri Rebane, Risto Klausen"," Apps, E-Commerce Platforms, Insurance, InsurTech, IT Infrastructure, Mobile", 11-50," $7,871,905", 5, 4
+287,KINEXON, Munich, 2012," Alexander Hüttenbrink, Maximilian Schmidt, Oliver Trinchera"," Industrial Automation, Industrial Manufacturing, Information Technology, Internet of Things, Logistics, Software", 101-250," € 15,000,000", 2, 2
+288,McLaren, England, 2017," Bruce McLaren, Ron Dennis"," Automotive, Information Technology, Manufacturing, Sports", 1001-5000," £353,800,000", 2, 2
+289,TeleClinic, Munich, 2015," Katharina Juenger, Patrick Palacin, Reinhard Meier"," Communications Infrastructure, Fitness, Health Care, Health Insurance, Information Technology, Wellness", 11-50," € 9,000,000", 2, 2
+290,Talon.One, Berlin, 2015," Christoph Gerber, Lukas F Hartmann, Martin Wartig, Sebastian Haas"," Business Development, Enterprise Software, Information Technology, Marketing, SaaS", 11-50," € 3,000,000", 3, 5
+291,CrossEngage, Berlin, 2015," Manuel Hinz, Markus Wuebben"," Cloud Data Services, Database, Marketing, SaaS", 11-50," € 12,500,000", 6, 18
+292,Jina, Berlin, 2020," Han Xiao, Xuanbin He"," Artificial Intelligence, Machine Learning, Open Source, Software", 11-50," $7,500,000", 2, 3
+293,Magaloop, Berlin, 2018, , Marketplace, 11-50," € 5,900,000", 3, 6
+294,Mecuris, Munich, , , , 11-50," $8,109,922", , 
+295,Finanzcheck, Hamburg, , , , 251-500," $53,267,667", , 
+296,Layer, Berlin, 2019," Constantin Schünemann, David Barnowsky, Ernests Karlsons, Fábio Carneiro, Moritz ten Eikelder", Software, 1-10," € 5,700,000", 2, 7
+297,E-Farm.com, Hamburg, , , , 11-50," $5,300,000", , 
+298,XAIN, Berlin, , , , 11-50," $7,035,853", , 
+299,Elinvar, Berlin, 2016," Chris Bartz, Marco Neuhaus, Sebastian Böttner"," Asset Management, Finance, Financial Services, FinTech, Information Technology, Internet, Software, Wealth Management", 51-100," € 25,000,000", 3, 5
